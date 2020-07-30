@@ -1,0 +1,21 @@
+// FONTS
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@400;700;900&display=swap');
+
+// RESET
+@import './reset';
+
+// GLOBAL, UTILITIES
+@import './global';
+@import './mixins';
+@import './utilities';
+
+// COMPONENTS
+@import '../components/core/navigation';
+@import '../components/plants/plants';
+@import '../components/core/userForm';
+
+// MOBILE
+@import './mobile';
+
+// KEYFRAMES
+@import './keyframes';
